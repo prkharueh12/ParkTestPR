@@ -3,4 +3,7 @@ SDET 100k
 We are testing pull request on Git hub
 
 What is today?
+Answer : Today is a good day 12/9/2021
+
+What is your favorite season?
 Answer : 
