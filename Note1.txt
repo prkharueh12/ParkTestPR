@@ -7,11 +7,3 @@ Answer : Today is a good day 12/9/2021
 
 What is your favorite season?
 Answer : winter
-
-<<<<<<< HEAD
-
-THIS IS TESTING WORKING ON CURRENT!!! 
-=======
-What is your favorite sport? 1/7/22
-Answer : MX
->>>>>>> 93bb5402132c5480d904432e50030be710a0a19d
